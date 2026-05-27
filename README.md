@@ -1,10 +1,10 @@
 # Hi there, I'm Ariana 👋
-## *Full-Stack Engineer & Game Developer building interactive experiences*
-<br>
-<br>
+*Full-Stack Engineer & Game Developer building interactive experiences*
+<br/>
+<br/>
 I'm an **Indie Game Dev & Full-Stack Engineer**. I code in various languages, but my favorites are C# and Python. I enjoy creating full-stack web apps with React and Python. I also develop games in Unity using C#, and I plan to release my first mobile game for Android soon. Recently, I have been learning how to make WordPress Elementor websites, which has taught me a lot about web design.
-<br>
-<br>
+<br/>
+<br/>
 🔭 **What I'm working on**: A solar forecaster web app that tells how much energy a solar panel system will produce based on solar physics and current weather data.
 <br>🌱 **What I'm learning**: Mobile game development and using AI in software development to work efficiently.
 <br>⚡ **Fun fact**: I have been coding since I was 8. I started coding my own MMO game after my favorite web game shut down.
@@ -19,7 +19,8 @@ I'm an **Indie Game Dev & Full-Stack Engineer**. I code in various languages, bu
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
 
 # 
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ReCodes26&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 ![](https://streak-stats.demolab.com/?user=ReCodes26&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ReCodes26&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
