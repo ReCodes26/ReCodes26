@@ -5,9 +5,9 @@
 I'm an **Indie Game Dev & Full-Stack Engineer**. I code in various languages, but my favorites are C# and Python. I enjoy creating full-stack web apps with React and Python. I also develop games in Unity using C#, and I plan to release my first mobile game for Android soon. Recently, I have been learning how to make WordPress Elementor websites, which has taught me a lot about web design.
 <br/>
 <br/>
-🔭 **What I'm working on**: A solar forecaster web app that tells how much energy a solar panel system will produce based on solar physics and current weather data.
+🔭 **What I'm working on**: Finish hosting [Solar Forecaster(https://github.com/ReCodes26/Solar-Forecaster)] on a live domain
 <br>🌱 **What I'm learning**: Mobile game development and using AI in software development to work efficiently.
-<br>⚡ **Fun fact**: I have been coding since I was 8. I started coding my own MMO game after my favorite web game shut down.
+<br>⚡ **Fun fact**: I have been coding since I was 8. I started coding my own MMO after my favorite web game shut down.
 
 # 💻 Programming Languages:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
