@@ -5,7 +5,7 @@
 I'm an **Indie Game Dev & Full-Stack Engineer**. I code in various languages, but my favorites are C# and Python. I enjoy creating full-stack web apps with React and Python. I also develop games in Unity using C#, and I plan to release my first mobile game for Android soon. Recently, I have been learning how to make WordPress Elementor websites, which has taught me a lot about web design.
 <br/>
 <br/>
-🔭 **What I'm working on**: Creating an open source alternative to OneNote called BrainBook that is 100% offline with AI features.
+🔭 **What I'm working on**: Publishing my web app LocalPrompts
 <br>🌱 **What I'm learning**: Mobile game development and using AI in software development to work efficiently.
 <br>⚡ **Fun fact**: I have been coding since I was 8. I started coding my own MMO after my favorite web game shut down.
 
