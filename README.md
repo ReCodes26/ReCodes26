@@ -14,6 +14,7 @@ I'm an **Indie Game Dev & Full-Stack Engineer**. I code in various languages, bu
 
 # ⚡ My Projects:
 - [LocalPrompts](https://local-prompts.vercel.app/): A 100% local AI prompt library for editing, refining, and engineering prompts. Created with React Typescript, deployed with Vercel.
+- [Disable AI Overview](https://github.com/ReCodes26/Disable-AI-Overview): A Chrome extension that disables Google's AI overview from your search results. Created with JavaScript and HTML.
 
 # 👩🏾‍💻 Frameworks, Platforms, and Libraries:
 ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
