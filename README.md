@@ -1,8 +1,8 @@
 # Hi there, I'm Ariana 👋
-*Full-Stack Engineer & Game Developer building interactive experiences*
+*Full-Stack Software Developer & Game Developer building interactive experiences*
 <br/>
 <br/>
-I'm an **Indie Game Dev & Full-Stack Engineer**. I code in various languages, but my favorites are C# and Python. I enjoy creating full-stack web apps with React and Python. I also develop games in Unity using C#, and I plan to release my first mobile game for Android soon. Recently, I have been learning how to make WordPress Elementor websites, which has taught me a lot about web design.
+I'm an **Indie Game Dev & Full-Stack Software Developer**. I code in various languages, but my favorites are C# and Python. I enjoy creating full-stack web apps with React and Python. I also develop games in Unity using C#, and I plan to release my first mobile game for Android soon. Recently, I have been learning how to make WordPress Elementor websites, which has taught me a lot about web design.
 <br/>
 <br/>
 🔭 **What I'm working on**: Finishing my first mobile game.
